@@ -4,9 +4,9 @@
 
 # Statistics
 
-## Courses
-
 [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/): Open source textbook
+
+[An Introduction to Statistical Learning](https://www.statlearning.com/)
 
 # Visualization
 
