@@ -21,6 +21,7 @@
 * [2018 Data Science Bowl: Find the nuclei in divergent images to advance medical discovery](https://www.kaggle.com/competitions/data-science-bowl-2018/code)
 * [Computational biology course in R](https://github.com/hongqin/RCompBio/)
 * [Harvard Biomedical Data Science](http://rafalab.dfci.harvard.edu/pages/harvardx.html)
+* [Introduction to Bioinformatics](https://widdowquinn.github.io/2018-03-06-ibioic/)
 
 # Microbiology
 
