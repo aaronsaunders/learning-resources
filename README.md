@@ -17,3 +17,5 @@
 [2018 Data Science Bowl: Find the nuclei in divergent images to advance medical discovery](https://www.kaggle.com/competitions/data-science-bowl-2018/code)
 
 # Microbiology
+
+[Course packets for Bacterial Genetics and Physiology](https://github.com/graymicrolab/Bacterial_Genetics_Course_Packet)
