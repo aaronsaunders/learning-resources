@@ -1,6 +1,0 @@
-# Coding
-
-# Bioinfomatics
-
-# Microbiology
-
