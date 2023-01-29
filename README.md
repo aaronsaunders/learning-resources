@@ -1,6 +1,10 @@
 # Code
 * [Freecodecamp.org](https://www.freecodecamp.org/learn)
 
+## Javascript
+
+[Eloquent Javascript, 3rd Edition](https://eloquentjavascript.net/)
+
 # Statistics
 
 * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/): Open source textbook
