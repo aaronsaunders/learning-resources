@@ -14,5 +14,6 @@
 # Bioinfomatics
 
 [Data Science in cell imaging](https://assafzar.wixsite.com/dsci2020/lecture-slides)
+[2018 Data Science Bowl: Find the nuclei in divergent images to advance medical discovery](https://www.kaggle.com/competitions/data-science-bowl-2018/code)
 
 # Microbiology
