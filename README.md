@@ -11,6 +11,8 @@
 # Visualization
 
 [Chenxin Li's Visualization with ggplot](https://github.com/cxli233/Online_R_learning/tree/master/Quick_data_vis)
+[Data Viz with R Course](https://rkabacoff.github.io/datavis/preface.html)
+
 # Bioinfomatics
 
 [Data Science in cell imaging](https://assafzar.wixsite.com/dsci2020/lecture-slides)
