@@ -7,6 +7,7 @@
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
 * [Stanford University professors Trevor Hastie and Rob Tibshirani (Elements of Statistical Learning)](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 * [Statistical rethinking](https://github.com/rmcelreath/stat_rethinking_2023?s=09)
+* [ThinkStats2 by Allen Downey](http://allendowney.github.io/ThinkStats2/)
 
 # Visualization
 
