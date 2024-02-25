@@ -1,6 +1,10 @@
 # Code
 * [Freecodecamp.org](https://www.freecodecamp.org/learn)
 
+## Datasets
+
+https://github.com/byuidatascience/data4python4ds/blob/master/data.md
+
 ## Javascript
 
 [Eloquent Javascript, 3rd Edition](https://eloquentjavascript.net/)
